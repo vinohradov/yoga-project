@@ -1,0 +1,21 @@
+.contacts-form-input {
+    padding: 15px 40px;
+
+    margin:15px 0 10px 0;
+    text-align:center;
+    background-color: #efefef;
+    font-weight: 600;
+    color: #484f5b;
+    border: 1.5px solid #b0b0b0;
+    outline: none;
+    width: auto;
+
+}
+
+.contact-btn-default {
+    padding-right: 55px;
+}
+
+.label{
+
+}

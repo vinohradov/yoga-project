@@ -1,0 +1,32 @@
+.ending-section-content {
+    background-color: #484f5b;
+    color:white;
+    padding:70px 0 70px 0;
+}
+
+.ending-header{
+    font-size:25px;
+    font-weight:700;
+    white-space:nowrap;
+}
+
+a{
+    color:white;
+}
+
+
+
+.ending-icons{
+    padding-left:10px;
+}
+
+.ending-icon{
+    padding-left:10px;
+}
+
+.ending-logo{
+    width:auto;
+    margin:0 auto;
+}
+
+
