@@ -1,0 +1,25 @@
+.pregnant-section{
+    background: url(../images/Place%20Your%20Image%20Here-6.png);
+    background-repeat:no-repeat;
+    background-position:right;
+    min-height:707px;
+    background-size:cover;
+}
+
+.pregnant-header{
+    text-align:left;
+    line-height:1.3;
+    padding:100px 0 0 0;
+}
+
+.pregnant-header-text{
+    padding-top:50px;
+}
+
+
+
+@media (max-width:600px){
+    .pregnant-header{
+        font-size:45px;
+    }
+}
