@@ -1,0 +1,25 @@
+.programs-header{
+    font-weight:700;
+    font-size:25px;
+    padding-top:30px;
+    line-height:1;
+}
+
+.programs-list__item{
+    padding:20px 100px 0;
+}
+
+.programs-article{
+    text-align:center;
+}
+
+.programs-img{
+    width:auto;
+    margin:0 auto;
+}
+
+@media (max-width:575px){
+    .programs-article{
+        padding-top:30px;
+    }
+}

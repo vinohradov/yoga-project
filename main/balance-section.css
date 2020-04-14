@@ -1,0 +1,30 @@
+.balance-header{
+    text-align:left;
+    line-height:1.3;
+}
+
+.balance-header-text{
+    padding-top:50px;
+}
+
+@media (max-width:768px){
+    .balance-text{
+        text-align:center;
+    }
+    .balance-header{
+        text-align:center;
+    }
+}
+
+@media(max-width:500px){
+    .balance-header{
+
+          font-size:45px;
+      }
+}
+
+@media(max-width:930px){
+    .balance-header{
+        font-size:45px;
+    }
+}

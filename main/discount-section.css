@@ -1,0 +1,22 @@
+.discount-section{
+    background: url(../images/Place%20Your%20Image%20Here-4.png);
+    background-repeat:no-repeat;
+    background-position:center;
+    min-height:607px;
+    background-size:cover;
+}
+
+
+
+.discount-header{
+    line-height:1.2;
+    padding:100px 0 50px 0;
+    text-align:left;
+}
+
+
+@media(max-width:836px){
+    .discount-header{
+        font-size:55px;
+    }
+}
